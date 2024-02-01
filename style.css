@@ -1,0 +1,42 @@
+#clothing-section{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+}
+#assecories-section{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 0 auto;
+}
+div{
+    width: 140px;
+    margin: 10px;
+    margin-top: 1px;
+}
+img{
+    width: 100%;
+}
+p{
+    font-family: Montserrat,sans-serif;
+    font-size: 16px;
+    margin-left: 10px;
+}
+p1{
+    margin-left: 10px;
+    font-size: 15px;
+    color: #009688;
+    font-family: montserrat,sans-serif;
+}
+div:hover{
+    box-shadow: -5px -5px 10px grey, 5px 5px 10px grey;
+}
+
+#clothing-section:hover{
+    box-shadow: none;
+}
+#assecories-section:hover{
+    box-shadow: none;
+}

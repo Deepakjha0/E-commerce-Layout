@@ -1,0 +1,7 @@
+// clothingSection.appendChild(img)
+// paraElement.appendChild(texnodes)
+// clothingSection.appendChild(paraElement)
+// brandElement.appendChild(textnodes)
+// clothingSection.appendChild(brandElement)
+// priceElement.appendChild(priceNodes)
+// clothingSection.appendChild(priceElement)
